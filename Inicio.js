@@ -5,7 +5,7 @@
  */
 
 
-$("#oprimir").click(function(){
+$("#Oprimir").click(function(){
     alert("Me has apachurrado");
 });
 
